@@ -1,7 +1,8 @@
  
 
 
-> Open this page at [https://da5644.github.io/monkey-war-/](https://da5644.github.io/monkey-war-/)
+> Open this page at Da5644.net
+>
 
 ## Use as Extension
 
@@ -10,9 +11,10 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/da5644/monkey-war-** and import
+* search for *Da5644.net and import
 
-## Edit this project ![Build status badge](https://github.com/da5644/monkey-war-/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge]Da5644.net
+
 
 To edit this repository in MakeCode.
 
@@ -25,7 +27,7 @@ To edit this repository in MakeCode.
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/da5644/monkey-war-/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](Da5644.net
 
 #### Metadata (used for search, rendering)
 
